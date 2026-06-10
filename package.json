@@ -1,0 +1,9 @@
+{
+  "name": "spotlight",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node run-dev.mjs"
+  },
+  "license": "UNLICENSED"
+}
