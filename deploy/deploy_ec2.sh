@@ -9,7 +9,7 @@ set -Eeuo pipefail
 PROJECT_DIR="${PROJECT_DIR:-/home/ubuntu/spotlight}"
 BRANCH_NAME="${BRANCH_NAME:-main}"
 SWAP_SIZE_GB="${SWAP_SIZE_GB:-2}"
-SPOTLIGHT_DIR="$PROJECT_DIR/spotlight"
+SPOTLIGHT_DIR="$PROJECT_DIR"
 
 echo "======================================="
 echo "🚀 SPOTLIGHT EC2 DEPLOY"
